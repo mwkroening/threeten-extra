@@ -178,7 +178,7 @@ public final class Hours
      * For example, the following are valid inputs:
      * <pre>
      *   "PT2H"            -- Hours.of(2)
-     *   "PT-HM"           -- Hours.of(-2)
+     *   "PT-2H"           -- Hours.of(-2)
      *   "-PT2H"           -- Hours.of(-2)
      *   "-PT-2H"          -- Hours.of(2)
      *   "P3D"             -- Hours.of(3 * 24)
